@@ -74,10 +74,6 @@
                                         </li>
                                         <li>
                                             <a href="<?php echo base_url('reservation') ?>">Reservation</a>
-                                            <ul>
-                                                <li><a href="./reservation.html">Reservation</a></li>
-                                                <li><a href="./reservation-standard.html">Reservation Standard</a></li>
-                                            </ul>
                                         </li>
                                         <li>
                                             <a href="<?php echo base_url('menu') ?>">Menu</a>
@@ -91,8 +87,11 @@
                             </nav>
                             <div class="more-options">
                                 <ul class="social-icon-one">
-                                    <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                                    <li><a href="#"><span class="fa fa-instagram"></span></a></li>
+                                    <li><a href="https://twitter.com/" target="_blank"><span class="fa fa-twitter"></span></a></li>
+                                    <li><a href="https://www.facebook.com/" target="_blank"><span class="fa fa-instagram"></span></a></li>
+                                    <li> | </li>
+                                    <li class="current"><a href="#">En</a></li>
+                                    <li><a href="#">Hu</a></li>
                                 </ul>
                             </div>
                         </div>

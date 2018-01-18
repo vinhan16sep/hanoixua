@@ -157,22 +157,22 @@
 
 
 	//Contact Form Validation
-	var contact_form = $('#contact-form');
-	if(contact_form.length){
-		contact_form.validate({
-			rules: {
-				username: {
-					required: true
-				},
-				email: {
-					required: true
-				},
-				message: {
-					required: true
-				}
-			}
-		});
-	}
+	// var contact_form = $('#contact-form');
+	// if(contact_form.length){
+	// 	contact_form.validate({
+	// 		rules: {
+	// 			username: {
+	// 				required: true
+	// 			},
+	// 			email: {
+	// 				required: true
+	// 			},
+	// 			message: {
+	// 				required: true
+	// 			}
+	// 		}
+	// 	});
+	// }
 
 
 	// Scroll to a Specific Div

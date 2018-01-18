@@ -39,10 +39,12 @@
     </div>
 </section>-->
 
-<section class="page-title" style="background-image:url(<?php echo site_url('assets/public/img/background/6.jpg')?>);">
+<section class="page-title" style="background-image:url(<?php echo site_url('assets/public/img/background/homepage.jpg')?>);">
     <div class="auto-container">
         <div class="title">Discover Our</div>
-        <h2>Restaurant</h2> </div>
+        <h2>Hanoi Xua</h2>
+        <div class="title">Restaurant</div>
+    </div>
 </section>
 
 <section class="title-section">

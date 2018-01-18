@@ -1,5 +1,5 @@
 
-<section class="page-title" style="background-image:url(<?php echo site_url('assets/public/img/background/6.jpg')?>);">
+<section class="page-title" style="background-image:url(<?php echo site_url('assets/public/img/background/blogs.jpg')?>);">
     <div class="auto-container">
         <div class="title">Read our</div>
         <h2>Blog</h2> </div>

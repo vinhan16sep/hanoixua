@@ -1,4 +1,4 @@
-<section class="page-title" style="background-image:url(./images/background/6.jpg);">
+<section class="page-title" style="background-image:url(<?php echo site_url('assets/public/img/background/about.jpg')?>);">
     <div class="auto-container">
         <div class="title">Welcome</div>
         <h2>Story</h2> </div>
